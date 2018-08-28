@@ -1,0 +1,40 @@
+/* Modal Skins */
+
+/* Skin Blue & Skin Blue Light */ 
+.modal-header.skin-blue, .modal-header.skin-blue-light{
+	background-color: #3c8dbc;
+	color: #fff;
+}
+
+/* Skin Black & Skin Black Light */ 
+.modal-header.skin-black, .modal-header.skin-black-light{
+	background-color: #fff;
+	color: #000;
+}
+
+/* Skin Purple & Skin Purple Light */ 
+.modal-header.skin-purple, .modal-header.skin-purple-light{
+	background-color: #605ca8;
+	color: #fff;
+}
+
+/* Skin Green & Skin Green Light */ 
+.modal-header.skin-green, .modal-header.skin-green-light{
+	background-color: #00a65a;
+	color: #fff;
+}
+
+/* Skin Red & Skin Red Light */ 
+.modal-header.skin-red, .modal-header.skin-red-light{
+	background-color: #dd4b39;
+	color: #fff;
+}
+
+
+/* Skin Yellow & Skin Yellow Light */ 
+.modal-header.skin-yellow, .modal-header.skin-yellow-light{
+	background-color: #f39c12;
+	color: #fff;
+}
+
+

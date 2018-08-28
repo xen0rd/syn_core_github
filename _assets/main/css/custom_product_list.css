@@ -1,0 +1,134 @@
+.clearfix.header {
+    background: #1b67a9 none repeat scroll 0 0;
+    border-bottom: 7px solid #f47221;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: auto;
+    margin-top: 0;
+    max-width: 100%;
+    overflow: hidden;
+    padding: 10px 15px 10px 10px;
+    width: 100%;
+}
+.col-sm-3.logo {
+    padding: 0;
+}
+
+.site {
+    margin: 21px;
+}
+
+
+.site .container {
+    width: 1150px;
+}
+.header .col-sm-9.search h2 {
+    color: #fff;
+    padding: 10px 0 0 0;
+}
+ul.nav.nav-tabs {
+    background-color: white;
+}
+div#example_filter {
+    position: absolute;
+    right: 6px;
+    top: -145px;
+}
+.clearfix.header {
+    position: relative;
+}
+.dataTables_filter label {
+    color: #ffffff;
+}
+.dataTables_filter label input[type="search"] {
+    background: #f37321 none repeat scroll 0 0;
+    border: medium none;
+    border-radius: 4px;
+    color: #fff;	
+    font-family: Myriad Pro;
+    font-size: 15px;
+    margin-right: 10px;
+    padding: 10px;
+    vertical-align: middle;
+    height: 40px;
+}
+.site-header-menu {
+    width: 100%;
+    display: block;
+    flex: inherit;
+    padding: 10px 9px;
+    text-align: right;
+    border-bottom: 1px solid #000000;
+}
+ul#menu-header-menu {
+    list-style: none;
+    margin: 0;
+    float: inherit;
+}
+
+#menu-header-menu li {
+    border-right: 1px solid #1b67a9;
+    display: inline-block;
+    float: inherit;
+}
+
+ul#menu-header-menu li a {display: block;line-height: 1.3125;outline-offset: -8px;padding: 0 10px;white-space: nowrap; font-size: 18px;}
+
+ul#menu-header-menu li {
+    border-right: 1px solid #1b67a9;
+    display: inline-block;
+    float: inherit;
+}
+ul#menu-header-menu li:last-child {
+    border: none;
+}
+/* footer css*/
+.custom-footer {
+    width: 100%;
+    background-color: #cac9c9;
+}
+
+footer#colophon nav.main-navigation nav.main-navigation {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0 10px;
+    margin: 0;
+}
+
+.main-navigation ul {
+    list-style: none;
+    margin: 0;
+}
+
+footer#colophon nav.main-navigation li {
+    display: inline-block;
+    border: none;
+}
+
+footer#colophon nav.main-navigation li a {
+    border-right: 1px solid;
+    color: #333;
+    font-size: 15px;
+    padding: 0 8px 0 0px;
+    text-decoration: none;
+    LINE-HEIGHT: 1.3125;
+    white-space: nowrap;
+}
+li#menu-item-149 a {
+    color: #000;
+    font-weight: 800;
+}
+footer#colophon nav.main-navigation {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 22px 0 22px;
+    margin: 0;
+}
+footer#colophon nav.main-navigation li:last-child a {
+    border-right: none;
+}
+footer#colophon {
+    margin-top: 40px;
+}

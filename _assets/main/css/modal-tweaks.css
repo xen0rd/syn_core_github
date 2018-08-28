@@ -1,0 +1,5 @@
+/*center modal vertically*/
+.modal-center-vertical{
+  position: relative;
+  top: 25%;
+}

@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-05-05 07:42:53 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 07:42:53 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 07:55:19 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 07:56:21 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 07:57:02 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 07:57:08 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 07:57:51 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 07:57:52 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 07:58:42 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 07:58:43 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 08:00:25 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 08:00:56 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 08:01:01 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 08:17:51 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 08:20:43 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 09:17:04 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 11:03:06 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 11:03:06 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 11:03:52 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 11:05:35 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 11:10:50 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 11:10:50 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 11:15:11 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 11:19:32 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 11:46:30 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 11:46:30 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 11:46:41 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
+ERROR - 2018-05-05 12:52:22 --> Severity: Notice --> Undefined variable: total C:\xampp-7.0.26\htdocs\syn_core_beans\application\modules\product\views\shopping_cart.page.php 449
